@@ -20,5 +20,4 @@ devpod up . --ide vscode
 
 - Node.js (for Claude Code)
 - Python + uv
-- Rust + rust-analyzer
 - Git + GitHub CLI
